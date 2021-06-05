@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SplendidApp</string>
+    <string name="about">Saat ini saya sedang kuliah
+        di Unikom Bandung jurusan Teknik Informatika tahun angkatan 2018.</string>
+    <string name="nama">Ari Sulistio</string>
+    <string name="nim">10118030</string>
+    <string name="kelas">IF-1</string>
+    <string name="walk">Splendid berarti megah, mevvah, sangat bagus, baik sekali.</string>
+    <string name="walk2">Apa itu splendid.</string>
+    <string name="walk3">Dah Cuman itu...</string>
+    <string name="walk4">Cus langsung skip ae lah...</string>
+    <string name="hob">Hobby</string>
+    <string name="inter">Interest</string>
+    <string name="make">Makes</string>
+    <string name="mike">Mikes</string>
+    <string name="cita">Cita-Cita</string>
+    <string name="hob1">Nonton</string>
+    <string name="inters">Motorsport</string>
+    <string name="makes">Mie Ayam</string>
+    <string name="mikes">Kopi</string>
+    <string name="ker">Dishub</string>
+    <string name="vid">Video</string>
+    <string name="musc">Music</string>
+
+</resources>

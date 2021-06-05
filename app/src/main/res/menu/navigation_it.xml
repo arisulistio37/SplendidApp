@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="nav_view">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/nav_dailyactivity"
+        android:icon="@drawable/ic_da"
+        android:title="Daily Activity"/>
+
+    <item
+        android:id="@+id/nav_gallery"
+        android:icon="@drawable/ic_galery"
+        android:title="Gallery"/>
+
+    <item
+        android:id="@+id/nav_mvplaylist"
+        android:icon="@drawable/ic_playlist"
+        android:title="Music and Video Favorite"/>
+
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_person"
+        android:title="Profile"/>
+
+</menu>
