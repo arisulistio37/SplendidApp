@@ -92,21 +92,21 @@ public class Home extends AppCompatActivity {
         facebook.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                gotolink("https://www.facebook.com/lingga.alhamdi");
+                gotolink("https://www.facebook.com/arisulistio37/");
             }
         });
 
         instagram.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                gotolink("https://www.instagram.com/lingga_dvx/");
+                gotolink("https://www.instagram.com/arisulistio37/");
             }
         });
 
         navigation.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                gotolink("https://maps.app.goo.gl/c2g2VSxa68us7hUU6");
+                gotolink("www.google.co.id/maps/place/6%C2%B054'20.7%22S+107%C2%B041'22.2%22E/@-6.9057397,107.6872973,17z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d-6.9057454!4d107.6894856");
             }
         });
 
